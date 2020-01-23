@@ -1,0 +1,246 @@
+I, [2020-01-23 11:36:10 -08:00 #25941]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 11:36:10 -08:00 #25941]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 11:36:10 -08:00 #25941]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://10.9.130.10:12600 // Threads: 4m / 2l
+I, [2020-01-23 11:37:03 -08:00 #29623]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 11:37:03 -08:00 #29623]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 11:37:03 -08:00 #29623]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://10.9.130.10:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:22:40 -08:00 #29105]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 12:22:40 -08:00 #29105]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:22:40 -08:00 #29105]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://10.9.130.10:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:23:06 -08:00 #31043]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 12:23:06 -08:00 #31043]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:23:06 -08:00 #31043]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://10.9.130.10:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:25:12 -08:00 #7968]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 12:25:12 -08:00 #7968]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:25:12 -08:00 #7968]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://10.9.130.10:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:25:12 -08:00 #7968]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://10.9.130.10:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:25:12 -08:00 #7968]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://10.9.130.10:12600 HTTP@1260
+I, [2020-01-23 12:25:54 -08:00 #10989]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 12:25:54 -08:00 #10989]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:25:54 -08:00 #10989]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:25:54 -08:00 #10989]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:25:54 -08:00 #10989]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+E, [2020-01-23 12:26:09 -08:00 #10989] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:26:09.133878[0m #10989] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: / 371.77µs
+I, [[90m2020-01-23 12:26:14.104564[0m #10989] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /test 302.11µs
+I, [2020-01-23 12:28:44 -08:00 #23315]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 12:28:44 -08:00 #23315]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:28:44 -08:00 #23315]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:28:44 -08:00 #23315]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:28:44 -08:00 #23315]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:28:48.522264[0m #23315] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 287.99µs
+E, [2020-01-23 12:28:48 -08:00 #23315] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:28:48.582951[0m #23315] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 365.42µs
+I, [2020-01-23 12:29:07 -08:00 #24927]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 12:29:07 -08:00 #24927]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:29:07 -08:00 #24927]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:29:07 -08:00 #24927]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:29:07 -08:00 #24927]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 12:29:14 -08:00 #25591]  INFO -- Artillery: Version: 0.5.7
+I, [2020-01-23 12:29:14 -08:00 #25591]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:29:14 -08:00 #25591]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:29:14 -08:00 #25591]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:29:14 -08:00 #25591]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:29:15.890417[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 316.42µs
+E, [2020-01-23 12:29:15 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:15.938548[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 297.03µs
+I, [[90m2020-01-23 12:29:17.151975[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 576.48µs
+E, [2020-01-23 12:29:17 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:17.196351[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 289.73µs
+I, [[90m2020-01-23 12:29:17.563782[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 260.18µs
+E, [2020-01-23 12:29:17 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:17.613512[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 365.69µs
+I, [[90m2020-01-23 12:29:17.844459[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 302.03µs
+E, [2020-01-23 12:29:17 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:17.886795[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 330.23µs
+I, [[90m2020-01-23 12:29:18.055501[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 701.54µs
+E, [2020-01-23 12:29:18 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:18.102722[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 308.12µs
+I, [[90m2020-01-23 12:29:18.272784[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 370.53µs
+E, [2020-01-23 12:29:18 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:18.344306[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 304.35µs
+I, [[90m2020-01-23 12:29:18.472515[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 381.42µs
+E, [2020-01-23 12:29:18 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:18.518528[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 322.59µs
+I, [[90m2020-01-23 12:29:18.676309[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 370.74µs
+E, [2020-01-23 12:29:18 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:18.730696[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 287.5µs
+I, [[90m2020-01-23 12:29:18.872819[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 418.79µs
+E, [2020-01-23 12:29:18 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:18.920172[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 293.97µs
+I, [[90m2020-01-23 12:29:19.082822[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 542.77µs
+E, [2020-01-23 12:29:19 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:19.124859[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 319.75µs
+I, [[90m2020-01-23 12:29:19.316000[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 372.43µs
+E, [2020-01-23 12:29:19 -08:00 #25591] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:29:19.357869[0m #25591] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 293.91µs
+I, [2020-01-23 12:31:26 -08:00 #2657]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:31:26 -08:00 #2657]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:31:26 -08:00 #2657]  INFO -- : Added GET/test on TestExample
+I, [2020-01-23 12:31:26 -08:00 #2657]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:31:26 -08:00 #2657]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:31:26 -08:00 #2657]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 12:32:17 -08:00 #6669]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:32:17 -08:00 #6669]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:32:17 -08:00 #6669]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 12:32:17 -08:00 #6669]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:32:17 -08:00 #6669]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:32:17 -08:00 #6669]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:32:21.492779[0m #6669] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 200/[34mGET[0m: /test 399.76µs
+E, [2020-01-23 12:32:21 -08:00 #6669] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:32:21.553012[0m #6669] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m 500/[34mGET[0m: /favicon.ico 327.3µs
+I, [2020-01-23 12:42:11 -08:00 #16368]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:42:11 -08:00 #16368]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:42:11 -08:00 #16368]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 12:42:11 -08:00 #16368]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:42:11 -08:00 #16368]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:42:11 -08:00 #16368]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:42:15.959163[0m #16368] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 355.68µs
+E, [2020-01-23 12:42:16 -08:00 #16368] ERROR -- Not Found: 404
+I, [[90m2020-01-23 12:42:16.014224[0m #16368] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m [ 500/[34mGET[0m ] localhost:/favicon.ico 326.67µs
+I, [2020-01-23 12:43:54 -08:00 #24031]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:43:54 -08:00 #24031]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:43:54 -08:00 #24031]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 12:43:54 -08:00 #24031]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:43:54 -08:00 #24031]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:43:54 -08:00 #24031]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:43:57.611642[0m #24031] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 256.12µs
+I, [[90m2020-01-23 12:43:57.667698[0m #24031] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m [ 404/[34mGET[0m ] localhost:/favicon.ico 268.65µs
+I, [[90m2020-01-23 12:43:59.982391[0m #24031] [90;1m>[0m INFO [90;1m>[0m Kemal [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 219.05µs
+I, [2020-01-23 12:46:08 -08:00 #941]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:46:08 -08:00 #941]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:46:08 -08:00 #941]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 12:46:08 -08:00 #941]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:46:08 -08:00 #941]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:46:08 -08:00 #941]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:46:11.109342[0m #941] [90;1m>[0m INFO [90;1m>[0m [93mKemal[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 465.96µs
+I, [2020-01-23 12:47:01 -08:00 #5384]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:47:01 -08:00 #5384]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:47:01 -08:00 #5384]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 12:47:01 -08:00 #5384]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:47:01 -08:00 #5384]  INFO -- : [32;1mStarting[0m // 0MQ: tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:47:01 -08:00 #5384]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:47:04.259232[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 612.19µs
+I, [[90m2020-01-23 12:47:08.990719[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 306.2µs
+I, [[90m2020-01-23 12:47:22.262178[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 368.59µs
+I, [[90m2020-01-23 12:47:24.257026[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 228.58µs
+I, [[90m2020-01-23 12:47:24.432840[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 452.73µs
+I, [[90m2020-01-23 12:47:24.616792[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 366.37µs
+I, [[90m2020-01-23 12:47:24.814358[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 376.9µs
+I, [[90m2020-01-23 12:47:25.031735[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 362.38µs
+I, [[90m2020-01-23 12:47:25.259659[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 272.77µs
+I, [[90m2020-01-23 12:47:53.783636[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 330.47µs
+I, [[90m2020-01-23 12:47:56.865417[0m #5384] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 221.83µs
+I, [2020-01-23 12:51:34 -08:00 #24443]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:51:34 -08:00 #24443]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:51:34 -08:00 #24443]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 12:51:34 -08:00 #24443]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:51:34 -08:00 #24443]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:51:34 -08:00 #24443]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:51:43.775939[0m #24443] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 441.62µs
+I, [[90m2020-01-23 12:51:44.575244[0m #24443] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 256.52µs
+I, [[90m2020-01-23 12:51:44.762552[0m #24443] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 277.44µs
+I, [[90m2020-01-23 12:51:45.024275[0m #24443] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 367.19µs
+I, [2020-01-23 12:53:09 -08:00 #31346]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 12:53:09 -08:00 #31346]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 12:53:09 -08:00 #31346]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 12:53:09 -08:00 #31346]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:53:09 -08:00 #31346]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 12:53:09 -08:00 #31346]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 12:53:13.826935[0m #31346] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 289.01µs
+I, [[90m2020-01-23 12:53:16.376785[0m #31346] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 212.63µs
+I, [[90m2020-01-23 12:54:08.598594[0m #31346] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/test 720.62µs
+I, [2020-01-23 13:05:14 -08:00 #16928]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:05:14 -08:00 #16928]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:05:14 -08:00 #16928]  INFO -- : Added GET/test on TestExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 13:05:14 -08:00 #16928]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:05:14 -08:00 #16928]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:05:14 -08:00 #16928]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:06:21 -08:00 #21600]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:06:21 -08:00 #21600]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:06:21 -08:00 #21600]  INFO -- : Added GET/has_meta on MetaExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 13:06:21 -08:00 #21600]  INFO -- : Added GET/no_meta on NoMetaExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 13:06:21 -08:00 #21600]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:06:21 -08:00 #21600]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:06:21 -08:00 #21600]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:09:45 -08:00 #4578]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:09:45 -08:00 #4578]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:09:45 -08:00 #4578]  INFO -- : Added GET/has_meta on MetaExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 13:09:45 -08:00 #4578]  INFO -- : Added GET/no_meta on NoMetaExample with meta: 
+I, [2020-01-23 13:09:45 -08:00 #4578]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:09:45 -08:00 #4578]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:09:45 -08:00 #4578]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 13:09:52.162480[0m #4578] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 404/[34mGET[0m ] localhost:/test 359.13µs
+I, [[90m2020-01-23 13:09:57.735008[0m #4578] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/no_meta 285.25µs
+I, [2020-01-23 13:11:13 -08:00 #10763]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:11:13 -08:00 #10763]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:11:13 -08:00 #10763]  INFO -- : Added GET/has_meta on MetaExample with meta: {:data => [:one, :two, :three]}
+I, [2020-01-23 13:11:13 -08:00 #10763]  INFO -- : Added GET/no_meta on NoMetaExample without meta
+I, [2020-01-23 13:11:13 -08:00 #10763]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:11:13 -08:00 #10763]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:11:13 -08:00 #10763]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [[90m2020-01-23 13:11:19.685789[0m #10763] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/no_meta 272.71µs
+I, [[90m2020-01-23 13:11:23.938492[0m #10763] [90;1m>[0m INFO [90;1m>[0m [93mArtillery[0m [90;1m>[0m [ 200/[34mGET[0m ] localhost:/has_meta 235.72µs
+I, [2020-01-23 13:36:36 -08:00 #17829]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:36:36 -08:00 #17829]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:36:36 -08:00 #17829]  INFO -- : Added GET/has_meta on MetaExample with data hooks: {:data => [:one, :two, :three]}
+I, [2020-01-23 13:36:36 -08:00 #17829]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:36:36 -08:00 #17829]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:36:36 -08:00 #17829]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:36:47 -08:00 #18712]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:36:47 -08:00 #18712]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:36:47 -08:00 #18712]  INFO -- : Added GET/has_meta on MetaExample with data hooks: {:data => [:one, :two, :three]}
+I, [2020-01-23 13:36:47 -08:00 #18712]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:36:47 -08:00 #18712]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:36:47 -08:00 #18712]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:50:03 -08:00 #9234]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:50:03 -08:00 #9234]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:51:50 -08:00 #16660]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:51:50 -08:00 #16660]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:51:50 -08:00 #16660]  INFO -- : Added GET/has_meta on MetaExample with data hooks: [:one, :two, :three]
+I, [2020-01-23 13:51:50 -08:00 #16660]  INFO -- : Hooks present: Set{}
+I, [2020-01-23 13:51:50 -08:00 #16660]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:51:50 -08:00 #16660]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:51:50 -08:00 #16660]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:52:44 -08:00 #20753]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:52:44 -08:00 #20753]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:52:44 -08:00 #20753]  INFO -- : Added GET/has_meta on MetaExample with data hooks: [:one, :two, :three]
+I, [2020-01-23 13:52:44 -08:00 #20753]  INFO -- : Hooks present: Set{}
+I, [2020-01-23 13:52:44 -08:00 #20753]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:52:44 -08:00 #20753]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:52:44 -08:00 #20753]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:53:41 -08:00 #24984]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:53:41 -08:00 #24984]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:53:41 -08:00 #24984]  INFO -- : Added GET/has_meta on MetaExample with data hooks: [:one, :two, :three] (Array(Artillery::Shell::MetaType) | Array(Symbol) | Bool | Float64 | Hash(String, Artillery::Shell::MetaType) | Int32 | Int64 | String)
+I, [2020-01-23 13:53:41 -08:00 #24984]  INFO -- : Hooks present: Set{}
+I, [2020-01-23 13:53:41 -08:00 #24984]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:53:41 -08:00 #24984]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:53:41 -08:00 #24984]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:58:04 -08:00 #11712]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:58:04 -08:00 #11712]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:58:05 -08:00 #11712]  INFO -- : Added GET/has_meta on MetaExample with data hooks: [:one, :two, :three] (Array(Symbol) | Bool | Float64 | Hash(Symbol, Artillery::Shell::MetaType) | Int32 | Int64 | String)
+I, [2020-01-23 13:58:05 -08:00 #11712]  INFO -- : Hooks present: Set{}
+I, [2020-01-23 13:58:05 -08:00 #11712]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:58:05 -08:00 #11712]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:58:05 -08:00 #11712]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:59:38 -08:00 #18030]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:59:38 -08:00 #18030]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:59:38 -08:00 #18030]  INFO -- : Added GET/has_meta on MetaExample with data hooks: [:one, :two, :three] Array(Symbol)
+I, [2020-01-23 13:59:38 -08:00 #18030]  INFO -- : Hooks present: Set{}
+I, [2020-01-23 13:59:38 -08:00 #18030]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:59:38 -08:00 #18030]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:59:38 -08:00 #18030]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 13:59:47 -08:00 #18854]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 13:59:47 -08:00 #18854]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 13:59:47 -08:00 #18854]  INFO -- : Added GET/has_meta on MetaExample with data hooks: [:one, :two, :three] Array(Symbol)
+I, [2020-01-23 13:59:47 -08:00 #18854]  INFO -- : Hooks present: Set{:one, :two, :three}
+I, [2020-01-23 13:59:47 -08:00 #18854]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:59:47 -08:00 #18854]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 13:59:47 -08:00 #18854]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269
+I, [2020-01-23 14:00:56 -08:00 #23756]  INFO -- Artillery: Version: 0.5.9
+I, [2020-01-23 14:00:56 -08:00 #23756]  INFO -- Artillery: Environment! coding
+I, [2020-01-23 14:00:56 -08:00 #23756]  INFO -- : Added GET/has_meta on MetaExample with data hooks: [:one, :two, :three] Array(Symbol)
+I, [2020-01-23 14:00:56 -08:00 #23756]  INFO -- : Hooks present: Set{:one, :two, :three}
+I, [2020-01-23 14:00:56 -08:00 #23756]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 14:00:56 -08:00 #23756]  INFO -- 0MQ: [32;1mStarting[0m // tcp://0.0.0.0:12600 // Threads: 4m / 2l
+I, [2020-01-23 14:00:56 -08:00 #23756]  INFO -- : [32;1mEngaging[0m // 0MQ: tcp://0.0.0.0:12600 HTTP@1269

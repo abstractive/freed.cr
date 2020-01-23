@@ -1,0 +1,15 @@
+name: freed-examples
+version: 0.0.1
+crystal: 0.32.1
+
+authors:
+  - digitalextremist <code@extremist.digital>
+
+dependencies:
+  artillery:
+    git: git@source.freed.network:abstractive/artillery.git
+    branch: freed
+
+targets:
+  artillery:
+    main: test.cr

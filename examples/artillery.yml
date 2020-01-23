@@ -1,0 +1,17 @@
+presence:
+  name: Freed::TestExample
+  email: code@extremist.digital
+  code: example
+domains:
+  - example.freed.network
+disposition: bazooka
+environments:
+  coding:
+    host: extremist
+    threads:
+      mountpoint: 4
+      launcher: 2
+    ports:
+      http: 1269
+      zeromq: 12600
+public: build/

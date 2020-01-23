@@ -1,0 +1,8 @@
+/docs/
+/lib/
+/bin/freed
+/.shards/
+*.dwarf
+/shard.lock
+logs/*.*
+secrets.yml
