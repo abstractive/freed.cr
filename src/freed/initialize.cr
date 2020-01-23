@@ -1,6 +1,5 @@
-require "totem"
-require "mongo"         #de Expect MongoDB right now and make no effort to abstract it.
 require "msgpack"
 
 require "./exceptions"
-require "./mongo/*"
+
+#de This applies on both sides at all times, so it needs to be as light as possible.

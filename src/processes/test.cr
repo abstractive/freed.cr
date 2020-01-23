@@ -1,4 +1,4 @@
-require "../freed"
+require "../freed/mind"
 
 #de Reworking of https://github.com/datanoise/mongo.cr#usage
 

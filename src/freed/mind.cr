@@ -1,4 +1,8 @@
+require "./initialize"
 require "file_utils"
+require "totem"
+require "mongo"         #de Expect MongoDB right now and make no effort to abstract it.
+require "./mongo/*"
 
 module Freed
 
