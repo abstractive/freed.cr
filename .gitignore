@@ -1,7 +1,8 @@
 /docs/
 /lib/
-/bin/artillery-*
+/bin/freed
 /.shards/
 *.dwarf
 /shard.lock
 logs/*.*
+secrets.yml

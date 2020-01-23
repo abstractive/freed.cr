@@ -1,0 +1,4 @@
+connection:
+  mongo:
+    host: 10.9.130.2
+    database: "test"

@@ -8,10 +8,14 @@ authors:
 
 crystal: 0.32.1
 
+license: MIT
+
 executables:
   - freed
 
 dependencies:
+  totem:
+    github: icyleaf/totem
   zeromq:
     github: digitalextremist/zeromq-crystal
   mongo:
