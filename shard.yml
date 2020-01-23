@@ -21,6 +21,8 @@ dependencies:
   mongo:
     github: datanoise/mongo.cr
     branch: master
+  msgpack:
+    github: crystal-community/msgpack-crystal
 
 targets:
   freed:
