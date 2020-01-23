@@ -6,10 +6,10 @@ require "../src/freed/overrides/artillery"
 
 class MetaExample < Artillery::Shot
 
-  vector :get, "/has_meta", focuses(:one, :two, :three)
+  vector :get, "/has_meta", focuses(:proposals, :participants, :presences)
 
   def get
-    success_response "Has meta: #{Time.now}"
+    success_response "Has meta: #{Time.now} Focuses? #{focus}"
   end
 
 end
@@ -19,7 +19,7 @@ class NoMetaExample < Artillery::Shot
   vector :get, "/no_meta"
 
   def get
-    success_response "No meta: #{Time.now}"
+    success_response "No meta: #{Time.now} Focuses? #{focus}"
   end
 
 end
