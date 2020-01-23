@@ -1,0 +1,7 @@
+/docs/
+/lib/
+/bin/artillery-*
+/.shards/
+*.dwarf
+/shard.lock
+logs/*.*

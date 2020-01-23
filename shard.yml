@@ -1,0 +1,23 @@
+name: freed
+version: 0.0.0
+
+description: Persistent decentral data objects.
+  
+authors:
+  - digitalextremist <code@extremist.digital>
+
+crystal: 0.32.1
+
+executables:
+  - freed
+
+dependencies:
+  zeromq:
+    github: digitalextremist/zeromq-crystal
+  mongo:
+    github: datanoise/mongo.cr
+    branch: master
+
+targets:
+  freed:
+    main: src/processes/mind.cr
