@@ -1,7 +1,7 @@
 module Freed
   class Mind
     class Presence
-      include Protocol
+      include Coincide
       property requests
       property idle
       getter name
@@ -19,7 +19,7 @@ module Freed
       end
 
       def await?(uuid : String)
-        @timers[uuid] = Time.monotonic + Cannonry::Timing::REPLY
+        @timers[uuid] = Time.monotonic + Protocol::Timing::REPLY
         loop do
           if reply = @responses.delete(uuid)
             @timers.delete(uuid)
@@ -30,7 +30,7 @@ module Freed
             @timers.delete(uuid)
             return
           end
-          sleep Cannonry::Timing::WAIT
+          sleep Protocol::Timing::WAIT
           CHANNEL.send(nil)
         end
       end

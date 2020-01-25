@@ -16,3 +16,6 @@ dependencies:
     github: datanoise/mongo.cr
     branch: master
 
+targets:
+  artillery:
+    main: thinking.cr

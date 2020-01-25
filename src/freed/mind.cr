@@ -2,10 +2,9 @@ require "./initialize"
 require "file_utils"
 require "totem"
 require "mongo"         #de Expect MongoDB right now and make no effort to abstract it.
-require "./mongo/*"
 require "uuid"
-require "./protocol"
 
+require "./mind/mongo/*"
 require "./mind/initialize"
 require "./mind/operation"
 require "./mind/presences"
@@ -39,7 +38,7 @@ module Freed
 
     def initialize
       @configuration = configure
-      @client = establish_connection
+      @client = database_connection
       @database = attach_database
 
       @context = ZMQ::Context.new(@configuration["zeromq.threads.mind"].as_i)
