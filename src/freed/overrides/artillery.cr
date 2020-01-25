@@ -23,7 +23,7 @@ module Artillery
         unless vector[:meta].nil?
           if meta = vector[:meta]?
             if (hooks = meta[:focuses]) && hooks.is_a?(Array)
-              Artillery.log "Added #{vector[:method].to_s.upcase}#{vector[:path]} on #{vector[:object]} with data hooks: #{hooks}"
+              Gnosis.info "Added #{vector[:method].to_s.upcase}#{vector[:path]} on #{vector[:object]} with data hooks: #{hooks}"
               hooks.each { |hook|
                 @@focuses.add(hook)
                 get_class(vector[:object]).add_focus(hook)
@@ -32,7 +32,7 @@ module Artillery
           end
         end
       }
-      Artillery.log( "Focus hooks present: #{@@focuses}")
+      Gnosis.info( "Focus hooks present: #{@@focuses}")
     end
   end
 end

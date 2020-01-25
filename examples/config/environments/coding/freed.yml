@@ -1,0 +1,12 @@
+mongo:
+  database: "test"
+  host: 10.9.130.2
+  username: nil
+  password: nil
+  port: 27017
+zeromq:
+  interface: 10.9.130.2
+  port: 12601
+  threads:
+    mind: 4
+    thought: 2

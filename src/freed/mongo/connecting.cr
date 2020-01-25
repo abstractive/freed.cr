@@ -16,9 +16,9 @@ module Freed
 
       private def connection_location
         string = [] of String
-        if (host = @configuration["connection.mongo.host"]?) && host.as_s?
+        if (host = @configuration["mongo.host"]?) && host.as_s?
           string << host.to_s
-          if (port = @configuration["connection.mongo.port"]?) && port.as_s?
+          if (port = @configuration["mongo.port"]?) && port.as_s?
             string << port.to_s
           end
         end
@@ -26,7 +26,7 @@ module Freed
       end
 
       private def connection_database
-        if (database = @configuration["connection.mongo.database"]?) && database.as_s?
+        if (database = @configuration["mongo.database"]?) && database.as_s?
           return database.as_s
         end
         raise Error::Missing::Database.new

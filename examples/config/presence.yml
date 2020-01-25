@@ -1,0 +1,6 @@
+presence:
+  name: Freed::TestExample
+  email: code@extremist.digital
+  code: example
+  domains:
+    - example.freed.network

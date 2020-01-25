@@ -6,9 +6,21 @@ authors:
   - digitalextremist <code@extremist.digital>
 
 dependencies:
+  gnosis:
+    github: abstractive/gnosis.cr
+    branch: release
   artillery:
     git: git@source.freed.network:abstractive/artillery.git
     branch: freed
+  totem:
+    github: icyleaf/totem
+  zeromq:
+    github: digitalextremist/zeromq-crystal
+  mongo:
+    github: datanoise/mongo.cr
+    branch: master
+  msgpack:
+    github: crystal-community/msgpack-crystal
 
 targets:
   artillery:
