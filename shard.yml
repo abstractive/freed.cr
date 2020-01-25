@@ -14,18 +14,12 @@ executables:
   - freed
 
 dependencies:
-  gnosis:
-    github: abstractive/gnosis.cr
-    branch: release
-  totem:
-    github: icyleaf/totem
-  zeromq:
-    github: digitalextremist/zeromq-crystal
+  coincide:
+    git: git@source.freed.network:abstractive/coincide.git
+    branch: master
   mongo:
     github: datanoise/mongo.cr
     branch: master
-  msgpack:
-    github: crystal-community/msgpack-crystal
 
 targets:
   freed:

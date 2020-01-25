@@ -3,5 +3,5 @@
 /bin/freed
 /.shards/
 *.dwarf
-/shard.lock
+shard.lock
 logs/*.*

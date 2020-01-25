@@ -1,27 +1,18 @@
 name: freed-examples
-version: 0.0.1
+version: 0.0.0
 crystal: 0.32.1
 
 authors:
   - digitalextremist <code@extremist.digital>
 
 dependencies:
-  gnosis:
-    github: abstractive/gnosis.cr
-    branch: release
+  coincide:
+    git: git@source.freed.network:abstractive/coincide.git
+    branch: master
   artillery:
     git: git@source.freed.network:abstractive/artillery.git
     branch: freed
-  totem:
-    github: icyleaf/totem
-  zeromq:
-    github: digitalextremist/zeromq-crystal
   mongo:
     github: datanoise/mongo.cr
     branch: master
-  msgpack:
-    github: crystal-community/msgpack-crystal
 
-targets:
-  artillery:
-    main: test.cr
